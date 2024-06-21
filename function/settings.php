@@ -7,7 +7,7 @@
  * BY       : DARKXCODE
  */
 $settings = array(
-    "mode_proxy" => "off", // on or off
+    "mode_proxy" => "on", // on or off
     "proxy_list" => "proxy.txt", // proxy list (ex: proxy.txt) (FORMAT: proxy:port)
     "proxy_Auth" => "", // proxy password (ex: username:pass)
     "type_proxy" => "http", // http , https or socks
