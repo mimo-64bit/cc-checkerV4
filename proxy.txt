@@ -1,1 +1,2 @@
 residential-ww.lightningproxies.net:16666:ddipydjjwqstdvf51410-zone-resi:udogkrjyyj
+ddipydjjwqstdvf51410-zone-resi:udogkrjyyj@residential-ww.lightningproxies.net:16666
